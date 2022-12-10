@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285172446692']
-global.ownernomer = "6285172446692"
-global.premium = ['6285172446692']
+global.owner = ['6281393160368']
+global.ownernomer = "6281393160368"
+global.premium = ['6281393160368']
 global.packname = 'Sticker By'
-global.author = 'Sad-Bot'
+global.author = 'Nzrl-Bot'
 global.sessionName = 'session'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -59,14 +59,14 @@ global.thumb = fs.readFileSync('./media/image/papah.jpg')
 global.faall = fs.readFileSync('./media/image/menu.jpg')
 
 // Url
-global.mygit = 'https://github.com/FahriAdison'
+global.mygit = 'https://github.com/NazrilOfficiall'
 global.myyt = 'https://bit.ly/Papah-Chan'
 global.myytv = ''
 global.mygc = ""
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'SAD BOT'
-global.akulaku = 'Bot By Papah'
+global.botname = 'NZRL BOT'
+global.akulaku = 'Bot By Nazril'
 global.ytname = 'YT PAPAH' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
