@@ -4592,11 +4592,11 @@ _*🇯🇵 : このボットの機能のリスト*_.
 
 *[   INFORMATION   ]*
 _⫹⫺ Your Name : ${m.pushName}_
-_⫹⫺ Bot Name : Sad-Bot_
+_⫹⫺ Bot Name : NZRL-Bot_
 _⫹⫺ Library : Baileys-Md_
 _⫹⫺ Version : 4.0.4_
 _⫹⫺ Language : Javascript_
-_⫹⫺ Recoder : 𝙋𝙖𝙥𝙖𝙝-𝘾𝙝𝙖𝙣_
+_⫹⫺ Recoder : NAZRIL-OFFICIAL_
 _⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}_
 _⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}_                
 _⫹⫺ Bot Mode : Public Mode_
